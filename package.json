@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@material-ui/pickers": "^3.3.10",
+    "bootstrap": "^5.2.2",
+    "react-bootstrap": "^2.6.0"
+  }
+}
